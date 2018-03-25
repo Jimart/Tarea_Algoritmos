@@ -1,0 +1,3 @@
+/home/jimart/Downloads/Tarea AG Primitivas/Ejercicio 1/Build/CMakeFiles/rebuild_cache.dir
+/home/jimart/Downloads/Tarea AG Primitivas/Ejercicio 1/Build/CMakeFiles/hello.dir
+/home/jimart/Downloads/Tarea AG Primitivas/Ejercicio 1/Build/CMakeFiles/edit_cache.dir
