@@ -19,7 +19,7 @@ add_definitions(${OpenGL_DEFINITIONS})
 #########################################################
 # Incluyendo archivos 
 #########################################################
-add_executable(hello Ejercicio_1.cpp) # Agregando nombre del script y compilado
+add_executable(hello Ejercicio_5.cpp) # Agregando nombre del script y compilado
 
 ########################################################
 # Linkeo de librerías 
